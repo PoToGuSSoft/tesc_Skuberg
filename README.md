@@ -6,9 +6,13 @@ Dev base on xampp
 -install xampp;
 
 -run xampp;
+
 -start Apache;
+
 -start MySql;
+
 -add project to dir htdocs
+
 -crate db as localhost/phpmyadmin
  username:root
  password:''
@@ -19,6 +23,7 @@ Dev base on xampp
 
 -run service 
  php artisan serve
+ 
 -run config to add table
  php artisan migrate
  php artisan db:seed
