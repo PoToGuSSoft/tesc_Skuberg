@@ -4,6 +4,7 @@ For Skuberg  recuiting challance
 Dev base on xampp
 
 -install xampp;
+
 -run xampp;
 -start Apache;
 -start MySql;
